@@ -3,7 +3,7 @@ module.exports = {
     'dct:identifier':  __filename,
     'dct:format':      'application/fua.load+js',
     'dct:title':       'load',
-    'dct:alternative': '@nrd/fua.resource.ontology.secure/cred',
+    'dct:alternative': '@fua/resource.ontology.secure/cred',
     'dct:requires':    [{
         'dct:identifier': '../../data/cred/cred_fixed.ttl',
         'dct:format':     'text/turtle'
